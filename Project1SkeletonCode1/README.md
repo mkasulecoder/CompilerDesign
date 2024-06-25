@@ -99,12 +99,4 @@ Semantic Errors 0
 [Add guidelines for contributing to the project]
 
 ## License
-
-[Specify the license for your project]
-
-Citations:
-[1] https://cs.wellesley.edu/~cs235/fall08/lectures/22_lexing_revised.pdf
-[2] https://github.com/gbuzykin/lexegen
-[3] https://hackernoon.com/build-your-own-programming-language-part-iii-improving-lexical-analysis-with-regex-lookaheads
-[4] https://softwareengineering.stackexchange.com/questions/134359/lexical-analysis-without-regular-expressions
-[5] https://westes.github.io/flex/manual/Patterns.html
+[MIT]
